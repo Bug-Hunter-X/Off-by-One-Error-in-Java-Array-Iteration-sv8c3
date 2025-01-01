@@ -1,0 +1,2 @@
+# Off-by-One Error in Java Array Iteration
+This repository demonstrates a common off-by-one error in Java when iterating over an array.  The error occurs because the loop's termination condition allows access to an index that is out of bounds for the array. The solution provides a corrected loop that avoids this error.
